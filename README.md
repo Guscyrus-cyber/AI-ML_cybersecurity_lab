@@ -3,7 +3,7 @@
 This project introduces fundamental machine learning concepts through a cybersecurity use case. Using a realistic authentication dataset, the lab demonstrates how SOC analysts and machine learning systems identify brute-force attacks by analyzing features such as failed login counts, new source IP addresses, and successful logins after repeated failures. Participants learn classification, anomaly detection, supervised learning, and the difference between true positives, false positives, true negatives, and false negatives.
 
 **reviewing authentication events** 
-The goal of this lab is to learn how basic machine learning concepts apply to cybersecurity without using heavy Python.
+The goal of this lab is to learn how basic machine learning concepts apply to cybersecurity without using Python.
 
 This lab focuses on:
 
