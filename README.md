@@ -1,8 +1,8 @@
 # AI/ML for Cybersecurity Lab 01: Brute-Force Classification
 
-## Scenario0
+This project introduces fundamental machine learning concepts through a cybersecurity use case. Using a realistic authentication dataset, the lab demonstrates how SOC analysts and machine learning systems identify brute-force attacks by analyzing features such as failed login counts, new source IP addresses, and successful logins after repeated failures. Participants learn classification, anomaly detection, supervised learning, and the difference between true positives, false positives, true negatives, and false negatives.
 
-You are a SOC analyst reviewing authentication events.  
+**reviewing authentication events** 
 The goal of this lab is to learn how basic machine learning concepts apply to cybersecurity without using heavy Python.
 
 This lab focuses on:
@@ -227,34 +227,5 @@ A normal event incorrectly classified as an attack.
 
 A real attack incorrectly classified as normal.
 
----
 
-## GitHub Summary
 
-This lab demonstrates how AI/ML classification concepts apply to cybersecurity authentication logs.  
-The analyst uses features such as failed login count, new source IP, and successful login after failures to classify activity as Normal or Attack.
-
----
-
-## Tools Required
-
-No tools are required for the first version of this lab.
-
-Optional tools for future versions:
-
-- Excel or Google Sheets
-- Splunk Enterprise
-- Python with pandas
-- scikit-learn
-
----
-
-## Next Lab
-
-AI/ML for Cybersecurity Lab 02:
-
-```text
-Anomaly Detection for Data Exfiltration
-```
-
-This next lab will focus on detecting unusually high outbound network traffic.
