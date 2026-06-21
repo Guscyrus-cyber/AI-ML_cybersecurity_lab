@@ -1,6 +1,6 @@
 # AI/ML for Cybersecurity Lab 01: Brute-Force Classification
 
-## Scenario
+## Scenario0
 
 You are a SOC analyst reviewing authentication events.  
 The goal of this lab is to learn how basic machine learning concepts apply to cybersecurity without using heavy Python.
